@@ -70,11 +70,6 @@ Fun_fact: "I enjoy building software and analyzing cricket data"
 
 <br>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/rudranshy11/rudranshy11/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <br>
 
